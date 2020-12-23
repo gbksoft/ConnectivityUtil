@@ -1,0 +1,3 @@
+include ':ConnectivityUtil'
+include ':app'
+rootProject.name = "ConnectivityUtil"
