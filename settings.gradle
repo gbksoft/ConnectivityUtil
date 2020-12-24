@@ -1,3 +1,3 @@
-include ':ConnectivityUtil'
+include ':ConnectivityHelper'
 include ':app'
 rootProject.name = "ConnectivityUtil"
