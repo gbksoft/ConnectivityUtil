@@ -1,7 +1,7 @@
 # ConnectivityUtil
 
 Simple util to check Internet connection.
-
+[![](https://jitpack.io/v/gbksoft/ConnectivityUtil.svg)](https://jitpack.io/#gbksoft/ConnectivityUtil)
 
 ## Installation
 Add to the top level gradle file:
@@ -17,7 +17,7 @@ allprojects {
 Add to the app level gradle:
 ```
 dependencies {
-    implementation 'com.github.gbksoft:ConnectivityUtil:0.0.5'
+    implementation 'com.github.gbksoft:ConnectivityUtil:0.0.6'
 }
 ```
 
