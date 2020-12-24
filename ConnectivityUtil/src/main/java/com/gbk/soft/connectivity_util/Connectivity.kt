@@ -13,7 +13,7 @@ import com.gbk.soft.connectivity_util.interfaces.IConnectivityListener
 import com.gbk.soft.connectivity_util.interfaces.IConnectivityManager
 import timber.log.Timber
 
-class ConnectivityUtil(private val context: Context) : IConnectivityManager,
+class Connectivity(private val context: Context) : IConnectivityManager,
     IBaseConnectivityManager {
     private var isConnectionAvailable = false
     private var connectivityManager: ConnectivityManager? = null
