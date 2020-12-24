@@ -1,4 +1,4 @@
-package com.gbk.soft.connectivity_manager.interfaces
+package com.gbk.soft.connectivity_util.interfaces
 
 import androidx.lifecycle.LifecycleOwner
 
