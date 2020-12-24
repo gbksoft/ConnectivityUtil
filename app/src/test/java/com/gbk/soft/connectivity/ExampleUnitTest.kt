@@ -1,4 +1,4 @@
-package com.gbk.soft.connectivityutil
+package com.gbk.soft.connectivity
 
 import org.junit.Test
 

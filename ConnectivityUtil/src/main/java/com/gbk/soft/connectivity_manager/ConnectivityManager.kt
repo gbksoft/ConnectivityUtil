@@ -1,4 +1,4 @@
-package com.gbk.soft.connectivityutil
+package com.gbk.soft.connectivity_manager
 
 import android.content.Context
 import android.net.ConnectivityManager
@@ -8,9 +8,9 @@ import android.net.NetworkCapabilities
 import android.net.NetworkRequest
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.MutableLiveData
-import com.gbk.soft.connectivityutil.interfaces.IBaseConnectivityManager
-import com.gbk.soft.connectivityutil.interfaces.IConnectivityListener
-import com.gbk.soft.connectivityutil.interfaces.IConnectivityManager
+import com.gbk.soft.connectivity_manager.interfaces.IBaseConnectivityManager
+import com.gbk.soft.connectivity_manager.interfaces.IConnectivityListener
+import com.gbk.soft.connectivity_manager.interfaces.IConnectivityManager
 import timber.log.Timber
 
 class ConnectivityManager(private val context: Context) : IConnectivityManager,

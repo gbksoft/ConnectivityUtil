@@ -1,4 +1,4 @@
-package com.gbk.soft.connectivityutil
+package com.gbk.soft.connectivity
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
